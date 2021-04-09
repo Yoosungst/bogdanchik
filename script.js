@@ -6,8 +6,8 @@ var ctx;
 
 var pong = new Audio('pong.mp3');
 var pong2 = new Audio('pong2.mp3');
-var goal = new Audio('goal.wav');
-var endgame = new Audio('endgame.wav');
+var goal = new Audio('goal.mp3');
+var endgame = new Audio('endgame.mp3');
 
 window.onload = function () {
     canvas = document.getElementById("gameCanvas");
